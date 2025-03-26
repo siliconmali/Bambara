@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nkodon.com
+
+# Sitemaps
+Sitemap: https://nkodon.com/sitemap.xml
