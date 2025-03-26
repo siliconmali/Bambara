@@ -1,0 +1,51 @@
+{
+  "dictionary": [
+    {
+      "word": "barika",
+      "definition": {
+        "bam": "Interj. merci",
+        "eng": "thank you",
+        "fren": "merci"
+      },
+      "example": {
+        "bam": "Aw barika!",
+        "eng": "Thank you all!",
+        "fren": "Merci à vous tous!"
+      }
+    },
+    {
+      "word": "kɛlɛ",
+      "definition": {
+        "bam": "Nom. paix",
+        "eng": "peace",
+        "fren": "paix"
+      },
+      "example": {
+        "bam": "An bɛ kɛlɛ ka fɔ.",
+        "eng": "We are talking about peace.",
+        "fren": "Nous parlons de la paix."
+      },
+      "variant": [
+        "kele"
+      ],
+      "synonym": [
+        "jamana"
+      ],
+      "antonym": [
+        "war"
+      ],
+      "usage": "Utilisé pour exprimer l'absence de conflit.",
+      "similar": [
+        "dɔɔnin"
+      ],
+      "expressions": [
+        {
+          "bam": "Kɛlɛ bɛ se ka taa.",
+          "eng": "Peace is hard to achieve.",
+          "fren": "La paix est difficile à atteindre."
+        }
+      ],
+      "see": "jamana"
+    }
+  ]
+}
