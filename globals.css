@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  /* Primary Colors */
+  --primary-default: #008751; /* Mali green */
+  --primary-secondary: #FCD116; /* Mali yellow */
+  --primary-tertiary: #CE1126; /* Mali red */
+  --primary-contrast: #eae7de; /* Neutral contrast */
+
+  /* Accent Colors */
+  --accent-default: #FCD116; /* Mali yellow */
+  --accent-secondary: #CE1126; /* Mali red */
+  --accent-tertiary: #008751; /* Mali green */
+  --accent-contrast: #000000; /* Black for contrast */
+
+  /* Light Colors */
+  --light-default: #d9f2e5; /* Light green */
+  --light-secondary: #fef4d9; /* Light yellow */
+  --light-tertiary: #f9d9de; /* Light red */
+  --light-contrast: #095ea6; /* Blue for contrast */
+
+  /* Surface Colors */
+  --surface-default: #ffffff; /* White */
+  --surface-secondary: #f9fafa; /* Light gray */
+  --surface-tertiary: #999999; /* Gray */
+
+  /* Content Colors */
+  --content-default: #334054; /* Dark blue-gray */
+  --content-secondary: #666666; /* Medium gray */
+  --content-tertiary: #999999; /* Light gray */
+  --content-contrast: #ffffff; /* White for contrast */
+
+  /* Border Colors */
+  --solid-50: #fff; /* White */
+  --solid-100: #e0e0e0; /* Light gray */
+  --solid-200: #c0c0c0; /* Medium gray */
+  --solid-300: #a0a0a0; /* Gray */
+  --solid-400: #808080; /* Dark gray */
+  --solid-500: #606060; /* Very dark gray */
+}
+
+* {
+  font-family: "Gupter", serif !important;
+}
+
+
+.custom-menu .ant-menu-item {
+  color: white !important; /* Default text color */
+}
+
+.custom-menu .ant-menu-item:hover {
+  background-color: #1d75bc !important; /* Hover background color */
+}
+
+.custom-menu .ant-menu-item-selected {
+  background-color: #003d73 !important; /* Active item background */
+  color: white !important; /* Active text color */
+}
+
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
